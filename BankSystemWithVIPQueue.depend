@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1708452122 source:h:\iti-9 months\oop\banksystemwithvipqueue\main.cpp
+	<iostream>
+	<queue>
+	<deque>
+	"Customer.h"
+	"Teller.h"
+	"Bank.h"
+	<string>
+
+1708451212 h:\iti-9 months\oop\banksystemwithvipqueue\include\customer.h
+	<queue>
+	<string>
+
+1708451212 h:\iti-9 months\oop\banksystemwithvipqueue\include\teller.h
+	<queue>
+
+1708451944 h:\iti-9 months\oop\banksystemwithvipqueue\include\bank.h
+	"Teller.h"
+	"Customer.h"
+	<queue>
+	<string>
+	<algorithm>
+	<deque>
+
+1708452122 source:h:\iti-9 months\oop\habeba allah adnan\banksystemwithvipqueue\main.cpp
+	<iostream>
+	<queue>
+	<deque>
+	"Customer.h"
+	"Teller.h"
+	"Bank.h"
+	<string>
+
+1708451212 h:\iti-9 months\oop\habeba allah adnan\banksystemwithvipqueue\include\customer.h
+	<queue>
+	<string>
+
+1708451212 h:\iti-9 months\oop\habeba allah adnan\banksystemwithvipqueue\include\teller.h
+	<queue>
+
+1708638642 h:\iti-9 months\oop\habeba allah adnan\banksystemwithvipqueue\include\bank.h
+	"Teller.h"
+	"Customer.h"
+	<queue>
+	<string>
+	<algorithm>
+	<deque>
+
